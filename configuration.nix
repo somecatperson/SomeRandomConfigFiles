@@ -121,6 +121,11 @@
     ags
     busybox
     gimp
+    git
+    kdePackages.kservice
+    kdePackages.qt6ct
+    ventoy
+    libsForQt5.qtstyleplugin-kvantum
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
