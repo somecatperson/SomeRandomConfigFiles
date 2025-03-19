@@ -1,2 +1,2 @@
 # SomeRandomConfigFiles
-Run the script and do what it says
+Run the script as root and do what it says
